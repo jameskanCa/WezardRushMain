@@ -7,3 +7,7 @@ user testing scenarios.
 
 Project has been in works for past 3 months and has been demoed at Full Indie Vancouver. Project is still under development and new stable versions
 will be released here in 4 month release cycles. 
+
+
+Software Developer: James Kan
+Game Concept Designer: Hussania Wardhawala
